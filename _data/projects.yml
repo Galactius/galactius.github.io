@@ -2,7 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/images/', and edit following img items.
 
-- name: My first project
+- name: Basic Melody Generator
   gh_user: Galactius
   repo: Basic-Melody-Generator
   file: # only needed if you want to directly link to just one file in a repo instead of the repo itself
