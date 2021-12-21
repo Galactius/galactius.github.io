@@ -1,7 +1,7 @@
 # Site settings
 title: Daniel Perez
 description: Villanova University, Computer Science, Class of 2024. Please check out my work!
-url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/CV.pdf' # this is the link behind the CV button
+url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/resume.pdf' # this is the link behind the CV button
 /baseurl: '' # leave empty unless you use a domain name other than GitHub
 profilepic: '/images/profile.png'
 bkimage: '/images/beech.jpg' # Licensed from https://www.flickr.com/people/vudigitallibrary/
